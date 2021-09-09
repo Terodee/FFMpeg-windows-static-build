@@ -7,5 +7,5 @@ This binary build with visual studio 2019 community.
 Note that I do offer custom builds, price negotiable. Ping me at live:my544_1 with skype and I'll do the work for you :)
 
 default version compile with default setting(no libx264,libx265,vpx..etc).
-small file version compile with mp3,h264,libx265 only).
+small file version compile with mp3,h264,libx265;mp4,hevc(muxer) only).
 
