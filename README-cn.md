@@ -6,4 +6,4 @@ VS编译的Windows版FFMpeg静态库
 在 my544@qq.com，我会为你做这项工作:)
 
 默认版本使用ffmpeg默认设置(不含libx264,libx265,vpx等)。
-小文件版本支持mp3音频,h264,libx265编解码。
+小文件版本支持mp3音频,h264,libx265;mp4,hevc(muxer)的编解码支持。
