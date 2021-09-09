@@ -7,3 +7,5 @@ VS编译的Windows版FFMpeg静态库
 
 默认版本使用ffmpeg默认设置(不含libx264,libx265,vpx等)。
 小文件版本支持mp3音频,h264,libx265;mp4,hevc(muxer)的编解码支持。
+
+- 注意：x265在[GNU GPL](http://www.gnu.org/licenses/gpl-2.0.html)许可免费使用，也能在[commercial license](http://x265.org) 获得授权。
